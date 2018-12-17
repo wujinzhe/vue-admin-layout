@@ -1,6 +1,6 @@
 {
   "name": "vue-admin-layout",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "Layout.js",
   "scripts": {
@@ -12,7 +12,11 @@
   "files": [
     "dist"    
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujinzhe/vue-admin-layout.git"
+  },
+  "author": "wujinzhe",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
